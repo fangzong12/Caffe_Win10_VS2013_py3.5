@@ -4,7 +4,7 @@
 
 #### 2.READERME说明
 
-README_Compile.md 是我的Caffe编译日志，可能对你有帮助，也可见于
+README_Compile.md 是我的Caffe编译日志，可能对你有帮助，也可见于博客https://mp.csdn.net/postedit/98056261
 
 README_SRC.md是[BVLC/caffe](https://github.com/BVLC/caffe/tree/windows)作者提供的
 

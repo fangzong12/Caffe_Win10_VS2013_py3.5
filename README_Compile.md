@@ -1,6 +1,7 @@
 # Win10+CPU+Annaconda3+VS2015+Cmake3.11编译、安装Caffe，日志
 
 - 本文博客目录https://blog.csdn.net/confusingbird/article/details/98056261
+- 我编译好的Caffe-window的github路径：https://github.com/fangzong12/Caffe_Win10_VS2013_py3.5，可以直接使用，把python下的caffe文件夹复制到你的python3.5.exe的相对路径./Lib/site-packages下面
 - 最新Annaconda3下载路径：https://www.anaconda.com/distribution/选取python3.7
 
 ![](D:\WorkDiary\Caffe配置\Annaconda3下载.jpg)
